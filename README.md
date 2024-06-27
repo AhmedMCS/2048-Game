@@ -6,7 +6,7 @@ This repository contains the implementation of the 2048 game using array manipul
 
 - Fully functional 2048 game
 - Array manipulation for game logic
-- Includes various input files for testing
+- Includes input files for testing
 
 ## Installation
 

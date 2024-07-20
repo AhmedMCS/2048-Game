@@ -1,6 +1,6 @@
 # 2048 Game
 
-This repository contains the implementation of the 2048 game using array manipulation. The game is developed in Java and provides a fully functional version of the popular 2048 puzzle game.
+This repository contains the implementation of the 2048 game using array manipulation. I developed this in Java and provided a fully functional version of the popular 2048 puzzle game.
 
 ## Features
 
